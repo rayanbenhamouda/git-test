@@ -1,5 +1,5 @@
 int main(void) {
-  7777
+  //j'essaye de commit cela
   struct list *l = NULL;
-  return 0;
+  return 0
 }
